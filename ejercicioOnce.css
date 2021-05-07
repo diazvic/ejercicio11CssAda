@@ -1,0 +1,52 @@
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+
+.rosa{
+    background-color: #D800FF;
+}
+.negro{
+    background-color: #060406;
+    color: white;
+}
+.violeta{   
+    background-color: #9561E6;
+}
+.naranja{
+background-color: #F95538;
+}
+.azul{
+    background-color: #234FE7;
+    color: white;
+}
+.marron{
+    background-color: rgb(175,96,26);
+}
+.gris{
+    background-color: rgb(130, 124, 138);
+} 
+.amarillo{
+    background-color: rgb(237, 237, 34);
+}
+.blanco{
+    background-color:  rgb(253, 254, 254);
+}
+.lila{
+    background-color:  rgb(170, 101, 221);
+}
+.verde{
+    background-color:  hsl(108, 60%, 65%);
+}
+.celeste{
+    background-color: hsl(184,82%,54%);
+}
+.rojo{
+    background-color: hsl(1,91%,52%);
+}
+.lima{
+    background-color: hsl(60,91%,52%);
+}
+.topo{
+    background-color: hsl(60,9%,59%);
+}
